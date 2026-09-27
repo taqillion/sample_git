@@ -1,4 +1,4 @@
 This is a text file
 This is a second line
 This is a third line
-This is a fourth line
+This is a fourth lineThis is a fifth line
